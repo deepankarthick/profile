@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/deepankarthick/travel-site#readme",
   "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
     "jquery": "^3.6.0",
     "normalize.js": "0.0.1"
   }
